@@ -2,17 +2,20 @@
 ## About me ##
 I am passionate about good software quality. Strong sides are: analytical approach, motivation for constant development and willingness to never stop learning new things. I am looking for professional challenges and opportunities for personal development. I got hooked on the software testing bugs.
 ## Tech skills ##
-<ul> <li> SQL </li> </ul>
-Jira
-TestLink
-TestRail
-SELENIUM IDE
-Postman
-Chrome DevTools
-Oracle VM Virtual Box
-Linux (basic)
-Docker (basic)
-SCRUM
+<ul> 
+  <li> SQL </li> 
+  <li> Jira </li>
+  <li> TestLink </li>
+  <li> TestRail </li>
+  <li> Selenium IDE </li>
+  <li> Postman </li>
+  <li> Jira </li>
+  <li> Chrome DevTools </li>
+  <li> Oracle VM Virtual Box </li>
+  <li> Linux - basic </li>
+  <li> Docker - basic</li>
+  <li> Scrum </li>
+</ul>
 ## Languages ##
 English B2 or more
 German A1/A2 (to refresh)
