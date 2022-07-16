@@ -21,8 +21,9 @@ I am passionate about good software quality. Strong sides are: analytical approa
 
 <ul>
   <li> <b> English - B2 or even more </b> </li>
+  <li> <b> German - A1/A2 (to refresh) </b> </li>
   <ul>
-English B2 or more
-German A1/A2 (to refresh)
+
 ## My example tests exploratory ##
+    
 subject of the tests: https://testujpl.gitlab.io/pomodoro-kanban-test/ 
