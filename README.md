@@ -15,15 +15,14 @@ I am passionate about good software quality. Strong sides are: analytical approa
   <li> Linux - basic </li>
   <li> Docker - basic</li>
   <li> Scrum </li>
-  </ul>
+ </ul>
   
 ## Languages ##
 
 <ul>
   <li> <b> English - B2  </b> </li>
   <li> German - A1/A2 (to refresh) </li>
-  <ul>
+</ul>
 
 ## My example tests exploratory ##
-    
 subject of the tests: https://testujpl.gitlab.io/pomodoro-kanban-test/ 
