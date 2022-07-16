@@ -15,8 +15,11 @@ I am passionate about good software quality. Strong sides are: analytical approa
   <li> Linux - basic </li>
   <li> Docker - basic</li>
   <li> Scrum </li>
-</ul>
+  </ul>
 ## Languages ##
+<ul>
+  <li> <b> English - B2 or even more </b> </li>
+  <ul>
 English B2 or more
 German A1/A2 (to refresh)
 ## My example tests exploratory ##
