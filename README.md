@@ -20,8 +20,8 @@ I am passionate about good software quality. Strong sides are: analytical approa
 ## Languages ##
 
 <ul>
-  <li> <b> English - B2 or even more </b> </li>
-  <li> <b> German - A1/A2 (to refresh) </b> </li>
+  <li> <b> English - B2  </b> </li>
+  <li> German - A1/A2 (to refresh) </li>
   <ul>
 
 ## My example tests exploratory ##
