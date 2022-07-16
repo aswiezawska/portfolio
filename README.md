@@ -24,5 +24,5 @@ I am passionate about good software quality. Strong sides are: analytical approa
   <li> German - A1/A2 (to refresh) </li>
 </ul>
 
-## My example tests exploratory ##
+## My example exploratory tests ##
 subject of the tests: https://testujpl.gitlab.io/pomodoro-kanban-test/ 
