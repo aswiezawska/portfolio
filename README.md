@@ -27,8 +27,9 @@ My goal is to develop testing and technical skills.
 
 ## Exploratory tests ##
 * [Subject of the tests](https://testujpl.gitlab.io/pomodoro-kanban-test/)
-<ul>
-<li> REPORT 1 [LINK](https://docs.google.com/document/d/1r0TqHhjosQsj7J7psu4nALHbAqMIM53v/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true) </li>
+
+- * REPORT 1[LINK](https://docs.google.com/document/d/1r0TqHhjosQsj7J7psu4nALHbAqMIM53v/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+  <ul>
 <li> REPORT 2 https://docs.google.com/document/d/1aIZvZLsDnx-BJArZF97iPgZn-v5HbU5a/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true </li>
 <li> REPORT 3 https://docs.google.com/document/d/1CzYG3CI95E4sTgr9-LorAGJxzsmKz1fl/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true </li>
 <li> REPORT 4 https://docs.google.com/document/d/1GFPVttueYL0zbfqcGoUk6Y_PpK_VmKct/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true </li>
