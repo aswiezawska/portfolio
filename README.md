@@ -34,8 +34,9 @@ https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sha
 https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
 
 ## Bug Reports ##
-
-# Bug Report - example #
-https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
-# Summary Bug Report # 
-https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
+<ul>
+  <li> Bug Report - example 
+https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true </li>
+  <li> Summary Bug Report https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true </>
+  
+ </ul>
