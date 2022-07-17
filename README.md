@@ -27,6 +27,7 @@ My goal is to develop testing and technical skills.
 
 ## Exploratory tests ##
 * [Subject of the tests](https://testujpl.gitlab.io/pomodoro-kanban-test/)
+* I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes. 
 
 - REPORT 1 [LINK](https://docs.google.com/document/d/1r0TqHhjosQsj7J7psu4nALHbAqMIM53v/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 - REPORT 2 [LINK](https://docs.google.com/document/d/1aIZvZLsDnx-BJArZF97iPgZn-v5HbU5a/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
@@ -35,12 +36,10 @@ My goal is to develop testing and technical skills.
 - REPORT 5 [LINK](https://docs.google.com/document/d/1vA3HzR7tzNfys_KLHL_9zT5wf01Su_WX/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 
 
-I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
-[LINK](https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sharing)
+
 
 ## Tests Cases ##
-- I created test cases using TestLink or TestRail.  
-- [tests cases](https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+- I created test cases using TestLink or TestRail.  [tests cases](https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 
 - I wrote tests cases in Excel ! 😀
 - [test case in Excel](https://docs.google.com/spreadsheets/d/1GPgf6BxUYyK-J7XN4gsBIh4GCNp-zKTU/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
@@ -50,7 +49,7 @@ I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
 - Summary Bug Report [LINK](https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
  
  ## Test Plan ##
-  I created test plan for the store app. based on the business list of requirements. This task was the most challenging and demanding task that I have ever had working as an intern software tester. 
+  I created test plan for the store app. based on the business list of requirements. This task was the most challenging and demanding task that I have ever had working as an intern software tester.[test plan](https://docs.google.com/document/d/1iNS9DRB1l95rv4cdJp3tnDV9FCbXpU8C/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
   😀 
-  [test plan](https://docs.google.com/document/d/1iNS9DRB1l95rv4cdJp3tnDV9FCbXpU8C/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+  
   
