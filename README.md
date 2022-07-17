@@ -42,6 +42,7 @@ https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sh
  </ul>
  
  ## Test Plan ##
-  I created test plan for the store app. based on the business list of requirements. This task was the most challenging and demanding task that I have ever had working as an intern software tester. ;)
+  I created test plan for the store app. based on the business list of requirements. This task was the most challenging and demanding task that I have ever had working as an intern software tester. 
+  😀 => 😀, roześmiana buźka, szeroko uśmiechnięta twarz
   https://docs.google.com/document/d/1iNS9DRB1l95rv4cdJp3tnDV9FCbXpU8C/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
   
