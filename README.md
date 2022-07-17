@@ -1,6 +1,7 @@
 # PORTFOLIO #
 ## About me ##
-I am passionate about good software quality. Strong sides are: analytical approach, motivation for constant development and willingness to never stop learning new things. I am looking for professional challenges and opportunities for personal development. I got hooked on the software testing bugs.
+Hi, I'm Ania!  I am passionate about good software quality. Strong sides are: analytical approach, motivation for constant development and willingness to never stop learning new things. I got hooked on the software testing bugs.
+My goal is to develop testing and technical skills. 
 ## Tech skills ##
 <ul> 
   <li> SQL </li> 
