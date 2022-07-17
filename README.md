@@ -24,5 +24,8 @@ I am passionate about good software quality. Strong sides are: analytical approa
   <li> German - A1/A2 (to refresh) </li>
 </ul>
 
-## My example exploratory tests ##
-subject of the tests: https://testujpl.gitlab.io/pomodoro-kanban-test/ 
+## My exploratory tests ##
+Subject of the tests: https://testujpl.gitlab.io/pomodoro-kanban-test/ 
+I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
+https://docs.google.com/document/d/1vA3HzR7tzNfys_KLHL_9zT5wf01Su_WX/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
+
