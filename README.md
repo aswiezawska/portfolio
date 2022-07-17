@@ -36,7 +36,7 @@ My goal is to develop testing and technical skills.
 
 
 I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
-https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sharing
+[LINK](https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sharing)
 
 ## Tests Cases ##
 - I created test cases using TestLink or TestRail.  
@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sha
 
 ## Bug Reports ##
 - Bug Report - example [LINK](https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
-#Summary Bug Report [LINK](https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+- Summary Bug Report [LINK](https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
  
  ## Test Plan ##
   I created test plan for the store app. based on the business list of requirements. This task was the most challenging and demanding task that I have ever had working as an intern software tester. 
