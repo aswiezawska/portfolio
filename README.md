@@ -28,4 +28,3 @@ I am passionate about good software quality. Strong sides are: analytical approa
 Subject of the tests: https://testujpl.gitlab.io/pomodoro-kanban-test/ 
 I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
 https://docs.google.com/document/d/1vA3HzR7tzNfys_KLHL_9zT5wf01Su_WX/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
-
