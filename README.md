@@ -39,16 +39,17 @@ My goal is to develop testing and technical skills.
 
 
 ## Tests Cases ##
-- I created test cases using TestLink or TestRail.  [tests cases](https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+- I am creating test cases using TestLink or TestRail.  [tests cases](https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 
-- I wrote tests cases in Excel ! 😀[test case in Excel](https://docs.google.com/spreadsheets/d/1GPgf6BxUYyK-J7XN4gsBIh4GCNp-zKTU/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+- I wrote tests cases in Excel ! 😀 [test case in Excel](https://docs.google.com/spreadsheets/d/1GPgf6BxUYyK-J7XN4gsBIh4GCNp-zKTU/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 
 ## Bug Reports ##
+I am reporting bugs using Jira.
 - Bug Report - example [LINK](https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 - Summary Bugs Report [LINK](https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
  
  ## Test Plan ##
-  I created test plan for the store app. based on the business list of requirements. [my test plan](https://docs.google.com/document/d/1iNS9DRB1l95rv4cdJp3tnDV9FCbXpU8C/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+ I created test plan for the store app. based on the business list of requirements. [my test plan](https://docs.google.com/document/d/1iNS9DRB1l95rv4cdJp3tnDV9FCbXpU8C/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
   😀 
   
   
