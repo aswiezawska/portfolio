@@ -39,14 +39,14 @@ I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
 https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sharing
 
 ## Tests Cases ##
-# I created test cases using TestLink or TestRail.  
+- I created test cases using TestLink or TestRail.  
 - [tests cases](https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 
-# I wrote tests cases in Excel ! 😀
+- I wrote tests cases in Excel ! 😀
 - [test case in Excel](https://docs.google.com/spreadsheets/d/1GPgf6BxUYyK-J7XN4gsBIh4GCNp-zKTU/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 
 ## Bug Reports ##
-# Bug Report - example [LINK](https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
+- Bug Report - example [LINK](https://docs.google.com/document/d/1Rkd9VcC0Zi7vFUlVRoWp27Do2egOUivK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
 #Summary Bug Report [LINK](https://docs.google.com/document/d/1nWGhLBSVgedH5xUu3vwjxEa1BoBnPyTO/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true)
  
  ## Test Plan ##
