@@ -31,7 +31,14 @@ I executed tests in 5 sessions. Each session lasted from 90 to 120 minutes.
 https://drive.google.com/drive/folders/1yOrjFxJ4gqoM-wmdgF0JYMACePdWvVxd?usp=sharing
 
 ## Tests Cases ##
+<ul>
+<li>I created test cases using TestLink or TestRail.  
 https://docs.google.com/document/d/1RZnKq0VuF5W_A8S2pDj3v21KuVYilAkK/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true
+I wrote tests cases in Excel ! 😀
+</li>
+<li>
+https://docs.google.com/spreadsheets/d/1GPgf6BxUYyK-J7XN4gsBIh4GCNp-zKTU/edit?usp=sharing&ouid=114481429928836071996&rtpof=true&sd=true </li>
+</ul>
 
 ## Bug Reports ##
 <ul>
