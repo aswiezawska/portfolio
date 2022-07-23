@@ -10,7 +10,7 @@ My goal is to develop testing and technical skills.
   <li> TestRail </li>
   <li> Selenium IDE </li>
   <li> Postman </li>
-  <li> Jira </li>
+  <li> GIT </li>
   <li> Chrome DevTools </li>
   <li> Oracle VM Virtual Box </li>
   <li> Linux - basic </li>
